@@ -1,1 +1,55 @@
-# friends_index.html
+
+<html>
+<head>
+    <title>my webpage</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body style="background-color:skyblue">
+    
+<img src="https://pbs.twimg.com/media/Fyg4YQiXwAAhAB5?format=png&name=medium" alt="...title..." width="500" height="470"/>
+<h1>MY FRIENDS ACTIVITIES</h1>
+<ol>
+    <li> Video gaming</li>
+    <li> Book reading</li>
+    <li> Playing</li>
+    <li> Exercising </li>
+    <li> Eating</li>
+</ol>
+<h1>MY FRIENDS FAVOURITE PLACES</h1>
+<ul>
+    <li> London</li>
+    <li> India</li>
+    <li> LA</li>
+    <li> Italy</li>
+    <li> Australia</li>
+    <li> Japan</li>
+</ul>
+ <h1> DESCRIPTION OF SOME OF MY FRIENDS</h1>
+<dl>
+    <dt>Ganesh</dt>
+    <dd> smart and aggressive</dd>
+    <dt>Deepak</dt>
+    <dd> kind and intelligent</dd>
+    <dt>vivek</dt>
+    <dd> intelligent</dd>
+</dl>
+<h1>Friends Info</h1>
+<table border="1" cellspacing="10">
+<tr>
+<th> No </th>
+<th> Name </th>
+<th> Birthday </th>
+<th> petname </th>
+<th> Location</th>
+</tr>
+<tr>
+    <td> 1 </td> <br>
+    <td> Maneesh </td> 
+    <td> 5th march 2004 </td>
+    <td> Tommy </td> 
+    <td> India </td> 
+</tr>
+</table>
+</body>
+</html>
+
